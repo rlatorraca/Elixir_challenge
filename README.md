@@ -1,4 +1,4 @@
-# GetmoreApiChallenge
+# GetmoreApiChallenge-RLSP
 
 To start your Phoenix server:
 
