@@ -10,6 +10,7 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browse to 
 
 ## Paging (offset is 5)
 mix phx.server
+
 http://localhost:4000/api/products?page={page_number}
 
 ## To instal dependencies
